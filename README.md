@@ -1,0 +1,2 @@
+# consoleAppRandomizer
+Учебный проект.
